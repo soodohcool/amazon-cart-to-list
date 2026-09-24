@@ -2,7 +2,7 @@
 // @name         Amazon Cart to List
 // @namespace    https://github.com/soodohcool
 // @version      1.0.0
-// @description  Add items to a specific wish list right from the Amazon cart page instead of the dumb "Save for later" list
+// @description  Add items to a specific wish list from cart page...because my wife hates when I use the cart as my personal wish list.
 // @author       soodohcool
 // @license      MIT
 // @homepageURL  https://github.com/soodohcool/amazon-cart-to-list
